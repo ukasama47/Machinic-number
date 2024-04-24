@@ -1,4 +1,4 @@
-//1211201118 林優花
+
 //二通り作って計算時間の比較をしてみた。
 #include <iostream>
 #include <cmath>
